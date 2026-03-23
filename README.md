@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Mulualem, Platform Engineer at TextCortex.
+
+This is my work account for TextCortex-related work. For personal projects, open-source contributions, and writing, see [@Mule-ME](https://github.com/Mule-ME).
+
+I also write on [LinkedIn](https://linkedin.com/in/mulualemeshetu) and [Medium](https://medium.com/@muletech).
 <!--
 **Mulualem-E/Mulualem-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
